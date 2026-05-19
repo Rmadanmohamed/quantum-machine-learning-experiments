@@ -1,0 +1,13 @@
+{
+  "repo": "quantum-machine-learning-experiments",
+  "title": "Quantum Machine Learning Experiments",
+  "category": "AI-ML-Projects",
+  "description": "A set of quantum machine learning notebooks covering quantum kernels, QNN architecture, and quantum convolutional neural networks.",
+  "topics": [
+    "quantum-machine-learning",
+    "qiskit",
+    "qnn",
+    "qcnn",
+    "svm"
+  ]
+}
