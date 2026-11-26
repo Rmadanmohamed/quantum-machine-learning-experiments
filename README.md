@@ -1,5 +1,7 @@
 # Quantum Machine Learning Experiments
 
+> **Phase 2 repair branch:** The branch declares `qiskit-algorithms`, `pylatexenc` and `ipython` without guessing versions. Set `QKT_SOURCE_DIR` to the parent of the original `qkt` package and `QKT_DATASET_PATH` to the original `dataset_graph7.csv`. Missing scientific artifacts remain blocking; no alternative feature map, dataset, checkpoint, or compatibility claims have been introduced. Full runtime validation is pending; the following historical audit describes the original baseline.
+
 ## Overview and problem statement
 
 Explore simulated quantum kernels and variational circuits for classification, comparing selected quantum approaches with classical SVM baselines. Intended for experimentation, not evidence of quantum advantage.

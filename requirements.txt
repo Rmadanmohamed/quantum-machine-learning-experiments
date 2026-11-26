@@ -1,7 +1,10 @@
+ipython
 matplotlib
 numpy
 pandas
+pylatexenc
 qiskit
+qiskit-algorithms
 qiskit-machine-learning
 scikit-learn
 seaborn
